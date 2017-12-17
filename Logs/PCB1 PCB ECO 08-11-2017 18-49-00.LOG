@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=*
+Added Net: Name=EN2
+Added Net: Name=EN3
+Added Net: Name=EN4

@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\Diego\Desktop\PROJECT AUTOLEARNING\Projects\Proyecto Modulo Raspberry\Source\PCB2.PcbDoc
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

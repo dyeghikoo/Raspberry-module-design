@@ -1,0 +1,5 @@
+Added Component: Designator=Q1(MOSFET)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=C1 Pin=Q1-D
+Added Pin To Net: NetName=EN1 Pin=Q1-G
+Added Pin To Net: NetName=GND Pin=Q1-S

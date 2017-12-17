@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=DE Pin=DS1-1
+Removed Pin From Net: NetName=DD Pin=DS1-2
+Removed Pin From Net: NetName=DDP Pin=DS1-3
+Removed Pin From Net: NetName=DC Pin=DS1-4
+Removed Pin From Net: NetName=DG Pin=DS1-5
+Removed Pin From Net: NetName=DB Pin=DS1-7
+Removed Pin From Net: NetName=DF Pin=DS1-10
+Removed Pin From Net: NetName=DA Pin=DS1-11
+Removed Pin From Net: NetName=DDP Pin=R6-1
+Removed Pin From Net: NetName=DG Pin=R7-1
+Removed Pin From Net: NetName=DF Pin=R8-1
+Removed Pin From Net: NetName=DE Pin=R9-1
+Removed Pin From Net: NetName=DD Pin=R10-1
+Removed Pin From Net: NetName=DC Pin=R11-1
+Removed Pin From Net: NetName=DB Pin=R12-1
+Removed Pin From Net: NetName=DA Pin=R13-1
+Added Pin To Net: NetName=DDP Pin=R6-2
+Added Pin To Net: NetName=DG Pin=R7-2
+Added Pin To Net: NetName=DF Pin=R8-2
+Added Pin To Net: NetName=DE Pin=R9-2
+Added Pin To Net: NetName=DD Pin=R10-2
+Added Pin To Net: NetName=DC Pin=R11-2
+Added Pin To Net: NetName=DB Pin=R12-2
+Added Pin To Net: NetName=DA Pin=R13-2
+Added Pin To Net: NetName=NetDS1_1 Pin=DS1-1
+Added Pin To Net: NetName=NetDS1_1 Pin=R9-1
+Added Net: Name=NetDS1_1
+Added Pin To Net: NetName=NetDS1_2 Pin=DS1-2
+Added Pin To Net: NetName=NetDS1_2 Pin=R10-1
+Added Net: Name=NetDS1_2
+Added Pin To Net: NetName=NetDS1_3 Pin=DS1-3
+Added Pin To Net: NetName=NetDS1_3 Pin=R6-1
+Added Net: Name=NetDS1_3
+Added Pin To Net: NetName=NetDS1_4 Pin=DS1-4
+Added Pin To Net: NetName=NetDS1_4 Pin=R11-1
+Added Net: Name=NetDS1_4
+Added Pin To Net: NetName=NetDS1_5 Pin=DS1-5
+Added Pin To Net: NetName=NetDS1_5 Pin=R7-1
+Added Net: Name=NetDS1_5
+Added Pin To Net: NetName=NetDS1_7 Pin=DS1-7
+Added Pin To Net: NetName=NetDS1_7 Pin=R12-1
+Added Net: Name=NetDS1_7
+Added Pin To Net: NetName=NetDS1_10 Pin=DS1-10
+Added Pin To Net: NetName=NetDS1_10 Pin=R8-1
+Added Net: Name=NetDS1_10
+Added Pin To Net: NetName=NetDS1_11 Pin=DS1-11
+Added Pin To Net: NetName=NetDS1_11 Pin=R13-1
+Added Net: Name=NetDS1_11

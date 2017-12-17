@@ -1,0 +1,9 @@
+Remove Pin=Q1-D From Net=C1
+Remove Pin=Q1-G From Net=EN1
+Remove Pin=Q2-D From Net=C2
+Remove Pin=Q2-G From Net=EN2
+Remove Pin=Q3-D From Net=C3
+Remove Pin=Q3-G From Net=EN3
+Remove Pin=Q4-D From Net=C4
+Remove Pin=Q4-G From Net=EN4
+Change Component Designator: OldDesignator=* NewDesignator=J1

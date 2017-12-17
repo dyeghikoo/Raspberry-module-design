@@ -1,0 +1,15 @@
+Added Component: Designator=Q2(MOSFET)
+Added Component: Designator=Q3(MOSFET)
+Added Component: Designator=Q4(MOSFET)
+Added Pin To Net: NetName=C2 Pin=Q2-D
+Added Pin To Net: NetName=EN2 Pin=Q2-G
+Added Pin To Net: NetName=GND Pin=Q2-S
+Added Pin To Net: NetName=C3 Pin=Q3-D
+Added Pin To Net: NetName=EN3 Pin=Q3-G
+Added Pin To Net: NetName=GND Pin=Q3-S
+Added Pin To Net: NetName=C4 Pin=Q4-D
+Added Pin To Net: NetName=EN4 Pin=Q4-G
+Added Pin To Net: NetName=GND Pin=Q4-S
+Added Member To Class: ClassName=TopLevel Member=Component Q2 BS170
+Added Member To Class: ClassName=TopLevel Member=Component Q3 BS170
+Added Member To Class: ClassName=TopLevel Member=Component Q4 BS170

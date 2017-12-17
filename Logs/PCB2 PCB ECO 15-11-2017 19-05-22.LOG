@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=EN2 Pin=J1-33
+Added Pin To Net: NetName=EN3 Pin=J1-35
+Added Pin To Net: NetName=EN4 Pin=J1-37
+Added Member To Class: ClassName=TopLevel Member=Component J1 HEADER40

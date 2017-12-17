@@ -1,0 +1,19 @@
+Added Component: Designator=S1(SPST)
+Added Component: Designator=S2(SPST)
+Added Component: Designator=S3(SPST)
+Added Pin To Net: NetName=S1 Pin=S1-1
+Added Pin To Net: NetName=S1 Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=S2 Pin=S2-1
+Added Pin To Net: NetName=S2 Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=S3 Pin=S3-1
+Added Pin To Net: NetName=S3 Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Member To Class: ClassName=TopLevel Member=Component S1 FSM4JAH
+Added Member To Class: ClassName=TopLevel Member=Component S2 FSM4JAH
+Added Member To Class: ClassName=TopLevel Member=Component S3 FSM4JAH
+Added Room: Name=TopLevel

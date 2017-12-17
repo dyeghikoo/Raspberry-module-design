@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=DS1
+Added Member To Class: ClassName=TopLevel Member=Component DS1 HDSPB03E
+Added Member To Class: ClassName=TopLevel Member=Component J1 HEADER40
